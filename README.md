@@ -24,8 +24,8 @@ These projects explore **LED patterns, games, and gesture controls** 🔥
 - Fun way to explore **ESP32 + Web + IoT**  
 
 🖼️ Demo Photos:  
-![LED Game Pic 1](led_pattern/led_game_pic2.jpg)  
-![LED Game Pic 2](led_pattern/led_game_test.jpg)  
+![LED Game Pic 1](led_reaction_game/led_game_pic2.jpg)  
+![LED Game Pic 2](led_reaction_game/led_game_test.jpg)  
 
 ---
 
@@ -36,7 +36,7 @@ These projects explore **LED patterns, games, and gesture controls** 🔥
 - Great intro to **Computer Vision + IoT integration**  
 
 🖼️ Circuit Diagram:  
-![Circuit Diagram](circuit_diagram.png)  
+![Circuit Diagram](./circuit_diagram.png)  
 
 ---
 
@@ -52,7 +52,6 @@ These projects explore **LED patterns, games, and gesture controls** 🔥
 
 ## 🛠️ Tech Stack  
 
-- **Arduino Uno** → LED patterns  
 - **ESP32** → Web server, LED game  
 - **Python + MediaPipe** → Gesture recognition  
 - **Electronics** → LEDs, resistors, push buttons  
