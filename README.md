@@ -36,7 +36,7 @@ These projects explore **LED patterns, games, and gesture controls** 🔥
 - Great intro to **Computer Vision + IoT integration**  
 
 🖼️ Circuit Diagram:  
-![Circuit Diagram](./circuit_diagram.png)  
+![Circuit Diagram](circuit_image.png)  
 
 ---
 
