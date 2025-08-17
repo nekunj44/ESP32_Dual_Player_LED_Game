@@ -24,8 +24,8 @@ These projects explore **LED patterns, games, and gesture controls** 🔥
 - Fun way to explore **ESP32 + Web + IoT**  
 
 🖼️ Demo Photos:  
-<img src="led_pattern/led_game_pic2.jpg" alt="LED Game Pic 1" width="300"/>  
-<img src="led_pattern/led_game_test.jpg" alt="LED Game Pic 2" width="300"/>   
+![LED Game Pic 1](led_reaction_game/led_game_pic2.jpg)  
+![LED Game Pic 2](led_reaction_game/led_game_test.jpg)  
 
 ---
 
@@ -36,7 +36,7 @@ These projects explore **LED patterns, games, and gesture controls** 🔥
 - Great intro to **Computer Vision + IoT integration**  
 
 🖼️ Circuit Diagram:  
-<img src="circuit_diagram.png" alt="Circuit Diagram" width="400"/>
+![Circuit Diagram](circuit_image.png)  
 
 ---
 
