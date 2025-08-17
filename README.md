@@ -43,10 +43,10 @@ These projects explore **LED patterns, games, and gesture controls** 🔥
 ## 🎥 Demo Videos  
 
 - 🔹 **LED Pattern Demo**  
-  [![LED Pattern Video]](led_pattern/test_video.mp4)  
+  [LED Pattern Video](led_pattern/test_video.mp4)  
 
 - 🔹 **LED Gesture Game Demo**  
-  [![Reaction Game Video]](led_gesture_controlled/demo_video.mp4)
+  [Reaction Game Video](led_gesture_controlled/demo_video.mp4)
 
 ---
 
