@@ -36,7 +36,7 @@ These projects explore **LED patterns, games, and gesture controls** 🔥
 - Great intro to **Computer Vision + IoT integration**  
 
 🖼️ Circuit Diagram:  
-![Circuit Diagram](circuit_diagram.jpg)  
+![Circuit Diagram](circuit_diagram.png)  
 
 ---
 
@@ -65,10 +65,14 @@ These projects explore **LED patterns, games, and gesture controls** 🔥
 - Support more gestures (rock-paper-scissors style) ✊✋✌️
 - Port game to mobile app interface 📱
 
+---
+
 ## 🤝 Contributing
 
 - Pull requests are welcome!
 - If you have new patterns, gestures, or game ideas, feel free to contribute 🚀
+
+---
 
 📜 License
 
